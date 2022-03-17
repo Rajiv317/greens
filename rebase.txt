@@ -1,2 +1,3 @@
 First rebase
 second rebase commit
+fourth line rebase from Master Branch

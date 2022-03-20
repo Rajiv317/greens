@@ -1,0 +1,8 @@
+First rebase
+second rebase commit
+<<<<<<< HEAD
+fourth line rebase from Master Branch
+||||||| parent of 6a0512b (Third rebase commit from UAT branch)
+=======
+Third rebase commit from UAT branch
+>>>>>>> 6a0512b (Third rebase commit from UAT branch)
